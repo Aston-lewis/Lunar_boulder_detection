@@ -1,0 +1,24 @@
+
+# Lunar Boulder Detection - Dependencies
+
+# YOLO
+ultralytics==8.4.197
+
+# Deep Learning
+torch==2.15.0
+torchvision==0.29.2
+
+# Computer Vision
+opencv-python==5.0.0.93
+Pillow==13.0.0
+
+# Data Processing
+numpy==2.5.4
+polars==2.1.0
+
+# Visualization
+matplotlib==3.11.2
+
+# Utilities
+PyYAML
+requests==2.34.2
